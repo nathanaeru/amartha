@@ -8,7 +8,7 @@ A simple, no-nonsense Rainmeter skin designed to be as lightweight and beautiful
 
 - A lightweight, Fastfetch-based system profile. Kudos to IvyProtocol for [the config!](https://github.com/fastfetch-cli/fastfetch/discussions/971#discussioncomment-15719882) 
 - A simple clock showing time and date.
-- A beautiful app dock with minimal icons from [Phosphor Icons](https://phosphoricons.com/). By default they open Brave, File Explorer, Windows Terminal, VS Code, and Recycle Bin respectively. Can be edited by modifying `Dock.ini`.
+- A beautiful app dock with minimal icons from [Phosphor Icons](https://phosphoricons.com/). By default they open the default browser, File Explorer, Windows Terminal, VS Code, and Recycle Bin respectively. Can be edited by modifying `Dock.ini`.
 
 ## Installation
 

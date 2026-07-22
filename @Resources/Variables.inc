@@ -16,4 +16,3 @@ DockSpacing=30
 
 ; --- Fastfetch Settings ---
 FastfetchConfigPath=%USERPROFILE%\.config\fastfetch\config.jsonc
-PollingInterval=30   ; In seconds

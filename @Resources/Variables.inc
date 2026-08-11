@@ -16,3 +16,4 @@ DockSpacing=30
 
 ; --- Fastfetch Settings ---
 FastfetchConfigPath=%USERPROFILE%\.config\fastfetch\config.jsonc
+FastfetchPollingRateSec=60
